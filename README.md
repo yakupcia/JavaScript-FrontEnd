@@ -1,0 +1,1 @@
+Patika.dev'in baslangıç seviye front-end web geliştirme patikasının ödevleri kapsamında açmış olduğum repoya hoşgeldiniz
